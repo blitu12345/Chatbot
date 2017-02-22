@@ -18,3 +18,4 @@ def record():
 	except sr.RequestError as e:
 		print("Google error={0}".format(e))
 		return None
+pirnt "Debug"
